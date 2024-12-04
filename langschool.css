@@ -1,0 +1,117 @@
+html {
+    background-color: rgb(100, 115, 129);
+}
+
+.alllinks {
+    text-align: center;
+}
+
+.links {
+    color: rgb(242, 176, 7);
+    font-family: FANTASY;
+}
+#lsh1 {
+    font-size: xx-large;
+    color: rgb(40, 40, 40);
+    font-family: FANTASY;
+    text-align: center;
+}
+.images {
+    text-align: center;
+}
+.image {
+    width: 475px;
+    height: 375px;
+}
+.image2 {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.names {
+    font-size:large;
+    color: rgb(40, 40, 40);
+    font-family: FANTASY;
+    text-align: center;
+}
+#lsh2 {
+    font-size:x-large;
+    color: rgb(40, 40, 40);     
+    text-align: center;
+    font-family: fantasy;
+}
+#lsh3 {
+    font-size:x-large;
+    color: rgb(40, 40, 40);     
+    text-align: center;
+    font-family: fantasy;
+}
+#lsh4 {
+    font-size:x-large;
+    color: rgb(40, 40, 40);     
+    text-align: center;
+    font-family: fantasy;
+}
+#lsh5 {
+    font-size:x-large;
+    color: rgb(40, 40, 40);     
+    text-align: center;
+    font-family: fantasy;
+}
+.tables {
+    background-color:azure;
+    text-align: center;
+    font-size: medium;
+    color: rgb(40, 40, 40);
+    font-family: fantasy;
+    margin: auto;
+    border-collapse: collapse;
+    border: 2px solid rgb(40, 40, 40);
+}
+#teach_table{
+    margin:0 auto;
+}
+.stringtt{
+    font-size: medium;
+    color: rgb(40, 40, 40);
+    text-align: center;
+    font-family: fantasy;
+    border-collapse: collapse;
+    border: 2px solid rgb(40, 40, 40);
+}
+.celltt {
+    font-size: medium;
+    color: rgb(40, 40, 40);
+    text-align: center;
+    font-family: fantasy;
+    border-collapse: collapse;
+    border: 2px solid rgb(40, 40, 40);
+}
+.cellttc {
+    background-color: rgb(255, 90, 90);
+    border-collapse: collapse;
+    border: 2px solid rgb(40, 40, 40);
+}
+
+.td1
+{
+    font-size: medium;
+    color: rgb(40, 40, 40);
+    text-align: center;
+    font-family: fantasy;
+    border-collapse: collapse;
+    border: 2px solid rgb(40, 40, 40);
+}
+.icon
+{
+    width: 48px;
+    height: 48px;
+    margin:5px;
+}
+#idontknownhowmaneit
+{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
